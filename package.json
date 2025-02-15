@@ -1,0 +1,29 @@
+{
+  "name": "node-esmodule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": ["node", "esmodule", "worker_threads"],
+  "author": "Aniket Pandharabale <aniketicloud@gmail.com>",
+  "license": "ISC",
+  "description": "A Node.js project using ES modules and worker threads",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aniketicloud/node-esmodule.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aniketicloud/node-esmodule/issues"
+  },
+  "homepage": "https://github.com/aniketicloud/node-esmodule#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "@types/node": "^22.12.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {}
+}
